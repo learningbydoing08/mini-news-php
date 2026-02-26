@@ -1,6 +1,8 @@
-# Mini News App
+# 📰 Mini News App
 
 Mini CRUD berita menggunakan PHP Native + Tailwind.
+
+---
 
 ## Setup Local
 
@@ -8,9 +10,21 @@ Mini CRUD berita menggunakan PHP Native + Tailwind.
 2. Ubah config database di config/database.php
 3. Jalankan di localhost
 
-Login:
+---
+
+## 🔐 Login
+
 username: admin
 password: 123456
+
+---
+
+## 🛠 Built With
+
+- PHP Native
+- MySQL
+- TailwindCSS
+- Docker (soon)
 
 ---
 
